@@ -1,6 +1,6 @@
-# Cloud-Computing-Fundamentals
+# Information-Technology-Fundamentals
 ## 🎓 Certifications & Achievements
 
 ### 🏅 2025
-- **Cloud-Computing-Fundamentals**  
-  *Issued by IBM SkillsBuild – June 2025*
+- **Information-Technology-Fundamentals**  
+  *Issued by IBM SkillsBuild – May 2025*  
